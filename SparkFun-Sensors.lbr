@@ -13033,7 +13033,7 @@ It includes a sensing element and an IC interface capable of providing the measu
 <connect gate="G$1" pin="GND" pad="3"/>
 <connect gate="G$1" pin="VCC" pad="1"/>
 <connect gate="G$1" pin="VOUT" pad="2"/>
-</connects>
+<connects>
 <technologies>
 <technology name="">
 <attribute name="PROD_ID" value="IC-09880"/>
